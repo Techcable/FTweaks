@@ -1,0 +1,13 @@
+##############################
+#     FTweaks Main Config    #
+##############################
+
+# PvP Settings
+pvp:
+   # Only let the killer pick up loot a killed player drops
+   # This prevents people from stealing loot another player earned
+   protectLoot: true
+   # How long to protect the loot
+   # Lets other players pick up items protected by the above setting once the time runs out
+   # This setting does nothing if protectLoot is false
+   protectLootTime: 15
