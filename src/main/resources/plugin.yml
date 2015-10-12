@@ -1,5 +1,5 @@
 name: FTweaks
 version: ${project.version}
-main: net.techcable.phanatic.FTweaks
+main: net.techcable.phanatic.ftweaks.FTweaks
 authors:
   - Techcable
